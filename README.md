@@ -49,12 +49,4 @@ This application allows you to perform CRUD operations on a user registration da
 - `registration.py`: Python script containing functions for CRUD operations.
 - `README.md`: This file, providing instructions and information about the project.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
